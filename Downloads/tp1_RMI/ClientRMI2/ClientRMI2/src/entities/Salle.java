@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author macbookmimid
+ * @author ismail
  */
 public class Salle implements Serializable{
     private int id;
